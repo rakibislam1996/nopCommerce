@@ -1,0 +1,116 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "6bda8332-939f-45b7-a25e-7a797260ae59": {
+      "ProjectGuid": "6bda8332-939f-45b7-a25e-7a797260ae59",
+      "DisplayName": "Nop.Core",
+      "ColorIndex": 0
+    },
+    "ccd7f2c9-6a2c-4cf0-8e89-076b8fc0f144": {
+      "ProjectGuid": "ccd7f2c9-6a2c-4cf0-8e89-076b8fc0f144",
+      "DisplayName": "Nop.Data",
+      "ColorIndex": 1
+    },
+    "4f1f649c-1020-45be-a487-f416d9297ff3": {
+      "ProjectGuid": "4f1f649c-1020-45be-a487-f416d9297ff3",
+      "DisplayName": "Nop.Web",
+      "ColorIndex": 2
+    },
+    "210541ad-f659-47da-8763-16f36c5cd2f4": {
+      "ProjectGuid": "210541ad-f659-47da-8763-16f36c5cd2f4",
+      "DisplayName": "Nop.Services",
+      "ColorIndex": 3
+    },
+    "75fd4163-333c-4dd5-854d-2ef294e45d94": {
+      "ProjectGuid": "75fd4163-333c-4dd5-854d-2ef294e45d94",
+      "DisplayName": "Nop.Web.Framework",
+      "ColorIndex": 4
+    },
+    "5979dbfd-8471-4df5-a0fd-96f6768205aa": {
+      "ProjectGuid": "5979dbfd-8471-4df5-a0fd-96f6768205aa",
+      "DisplayName": "Nop.Plugin.Payments.PayPalStandard",
+      "ColorIndex": 5
+    },
+    "9a7b9344-6ad0-4828-876d-0bf14c177148": {
+      "ProjectGuid": "9a7b9344-6ad0-4828-876d-0bf14c177148",
+      "DisplayName": "Nop.Plugin.Payments.Manual",
+      "ColorIndex": 6
+    },
+    "446fed73-bca1-4d8f-bc13-ea1507c7ef29": {
+      "ProjectGuid": "446fed73-bca1-4d8f-bc13-ea1507c7ef29",
+      "DisplayName": "Nop.Plugin.ExternalAuth.Facebook",
+      "ColorIndex": 7
+    },
+    "87013dc8-d032-465b-a950-753e4eb15502": {
+      "ProjectGuid": "87013dc8-d032-465b-a950-753e4eb15502",
+      "DisplayName": "Nop.Plugin.Widgets.FacebookPixel",
+      "ColorIndex": 8
+    },
+    "493761cb-5190-4283-8c6c-a8ceb5450cab": {
+      "ProjectGuid": "493761cb-5190-4283-8c6c-a8ceb5450cab",
+      "DisplayName": "Nop.Plugin.Tax.FixedOrByCountryStateZip",
+      "ColorIndex": 9
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "a2de77e2-3a04-4781-bf5f-3466bf1722d6": {
+      "ProjectGuid": "a2de77e2-3a04-4781-bf5f-3466bf1722d6",
+      "DisplayName": "Nop.Plugin.AddFeature",
+      "ColorIndex": 10
+    },
+    "4c0c889a-a3b2-43fa-824a-f529402c1bbf": {
+      "ProjectGuid": "4c0c889a-a3b2-43fa-824a-f529402c1bbf",
+      "DisplayName": "Nop.Plugin.DiscountRules.CustomerRoles",
+      "ColorIndex": 11
+    },
+    "9978b382-0bcd-4621-b6b5-52e0e3b5f464": {
+      "ProjectGuid": "9978b382-0bcd-4621-b6b5-52e0e3b5f464",
+      "DisplayName": "Nop.Plugin.Widgets.NivoSlider",
+      "ColorIndex": 12
+    },
+    "adb6707c-4448-4750-8ba9-74c302102381": {
+      "ProjectGuid": "adb6707c-4448-4750-8ba9-74c302102381",
+      "DisplayName": "ConsoleApp1",
+      "ColorIndex": 13
+    },
+    "5422ed35-2808-4790-b5e6-c86a383b2874": {
+      "ProjectGuid": "5422ed35-2808-4790-b5e6-c86a383b2874",
+      "DisplayName": "Nop.Plugin.Payments.CheckMoneyOrder",
+      "ColorIndex": 14
+    },
+    "6df00c56-ec49-4ab8-8b29-404e3694026c": {
+      "ProjectGuid": "6df00c56-ec49-4ab8-8b29-404e3694026c",
+      "DisplayName": "Nop.Plugin.ExchangeRate.EcbExchange",
+      "ColorIndex": 15
+    },
+    "ff7dd057-4b60-4842-b928-ec675841f219": {
+      "ProjectGuid": "ff7dd057-4b60-4842-b928-ec675841f219",
+      "DisplayName": "Nop.Plugin.MyPlugin",
+      "ColorIndex": 0
+    },
+    "2208ccb2-3640-425a-a4d1-41a30fb9f967": {
+      "ProjectGuid": "2208ccb2-3640-425a-a4d1-41a30fb9f967",
+      "DisplayName": "Nop.Plugin.Widgets.MyWidget",
+      "ColorIndex": 1
+    },
+    "c2b83af5-80f6-4b8c-8628-fa7de10c3bb5": {
+      "ProjectGuid": "c2b83af5-80f6-4b8c-8628-fa7de10c3bb5",
+      "DisplayName": "Nop.Plugin.Widgets.GoogleAnalytics",
+      "ColorIndex": 2
+    },
+    "47e0b9f8-7f86-47e5-89c6-8aff2138c6eb": {
+      "ProjectGuid": "47e0b9f8-7f86-47e5-89c6-8aff2138c6eb",
+      "DisplayName": "Nop.Plugin.DiscountRules.AddressRole",
+      "ColorIndex": 3
+    },
+    "3f98e52d-89d7-40fb-bd45-dbe5984fc7f5": {
+      "ProjectGuid": "3f98e52d-89d7-40fb-bd45-dbe5984fc7f5",
+      "DisplayName": "Nop.Plugin.DiscountRules.Address",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}
